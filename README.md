@@ -1,4 +1,5 @@
-# Hotel Booking Landing Page
+# HotelComm
+## A landing page of a hotel booking system
 
 This is a simple hotel booking landing page website built with ReactJS, React Router DOM, Tailwind CSS, React Icons, and MirageJS. It serves as a complete end-to-end frontend sample project that was assigned as a task during the Internshala Frontend Internship selection process.
 
@@ -6,12 +7,14 @@ This is a simple hotel booking landing page website built with ReactJS, React Ro
 
 This were the given tasks and completio status: 
 
-~~0. City tabs should be visible (4 as shown in PDG);~~
-~~1. First City tab should be active by default;~~
-~~2. Cards representing an individual property should be 3 in a row;~~
-~~3. Show more button, on which if we click shows 3 more cards;~~
-~~4. Card Design should be not pixel perfect but Similar;~~
-~~5. On each card click it should navigate to detail page, with the route /property/:id~~
+~~0. City tabs should be visible (4 as shown in PDG);~~  
+~~1. First City tab should be active by default;~~  
+~~2. Cards representing an individual property should be 3 in a row;~~  
+~~3. Show more button, on which if we click shows 3 more cards;~~  
+~~4. Card Design should be not pixel perfect but Similar;~~  
+~~5. On each card click it should navigate to the detail page, with the route  ```js /property/:id ```~~  
+
+Now, each task is displayed vertically, and each one is on a new line.
 
 ## Features
 
