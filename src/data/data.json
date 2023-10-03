@@ -1,0 +1,696 @@
+{
+    "cities": {
+        "newyork": [
+            {
+                "image": "https://loremflickr.com/320/240/hotel,newyork?random=1",
+                "address": "570 Tenth Avenue, W 42nd St At, New York, NY 10036, United States",
+                "pincode": 10036,
+                "hotelName": "YOTEL New York Times Square",
+                "details": {
+                    "rooms": 3,
+                    "bed": 4,
+                    "bath": 1,
+                    "area": "725 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "near Markus Street",
+                "price" : "₹ 2500",
+                "id" : "69"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,newyork?random=2",
+                "address": "123 Main Street, New York, NY 10001, United States",
+                "pincode": 10001,
+                "hotelName": "Luxury Hotel New York",
+                "details": {
+                    "rooms": 5,
+                    "bed": 6,
+                    "bath": 2,
+                    "area": "950 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "close to Central Park",
+                "price" : "₹ 2200",
+                "id" : "70"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,newyork?random=3",
+                "address": "789 Broadway, New York, NY 10003, United States",
+                "pincode": 10003,
+                "hotelName": "Downtown Boutique Hotel",
+                "details": {
+                    "rooms": 2,
+                    "bed": 3,
+                    "bath": 1,
+                    "area": "550 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "in the heart of downtown",
+                "price" : "₹ 3200",
+                "id" : "71"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,newyork?random=4",
+                "address": "456 Elm Street, New York, NY 10002, United States",
+                "pincode": 10002,
+                "hotelName": "Cozy Retreat Inn",
+                "details": {
+                    "rooms": 4,
+                    "bed": 5,
+                    "bath": 2,
+                    "area": "800 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "near Elm Park",
+                "price" : "₹ 12500",
+                "id" : "72"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,newyork?random=5",
+                "address": "101 Oak Avenue, New York, NY 10004, United States",
+                "pincode": 10004,
+                "hotelName": "Riverside Lodge",
+                "details": {
+                    "rooms": 3,
+                    "bed": 4,
+                    "bath": 2,
+                    "area": "700 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "along the riverfront",
+                "price" : "₹ 3300",
+                "id" : "73"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,newyork?random=6",
+                "address": "222 Pine Street, New York, NY 10005, United States",
+                "pincode": 10005,
+                "hotelName": "Pineview Suites",
+                "details": {
+                    "rooms": 4,
+                    "bed": 5,
+                    "bath": 3,
+                    "area": "900 sqft"
+                },
+                "target": {
+                    "forRent": false,
+                    "forSale": true
+                },
+                "landmark": "near Pine Park",
+                "price" : "₹ 5600",
+                "id" : "74"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,newyork?random=7",
+                "address": "333 Maple Avenue, New York, NY 10006, United States",
+                "pincode": 10006,
+                "hotelName": "Maple Court Hotel",
+                "details": {
+                    "rooms": 3,
+                    "bed": 4,
+                    "bath": 1,
+                    "area": "750 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "in the historic district",
+                "price" : "₹ 27900",
+                "id" : "75"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,newyork?random=8",
+                "address": "444 Walnut Street, New York, NY 10007, United States",
+                "pincode": 10007,
+                "hotelName": "Walnut Grove Inn",
+                "details": {
+                    "rooms": 5,
+                    "bed": 6,
+                    "bath": 2,
+                    "area": "950 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "near Walnut Park",
+                "price" : "₹ 6790",
+                "id" : "76"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,newyork?random=9",
+                "address": "555 Cedar Avenue, New York, NY 10008, United States",
+                "pincode": 10008,
+                "hotelName": "Cedarwood Mansion",
+                "details": {
+                    "rooms": 6,
+                    "bed": 7,
+                    "bath": 3,
+                    "area": "1100 sqft"
+                },
+                "target": {
+                    "forRent": false,
+                    "forSale": true
+                },
+                "landmark": "surrounded by greenery",
+                "price" : "₹ 7780",
+                "id" : "78"
+            }
+        ],
+        "mumbai": [
+            {
+                "image": "https://loremflickr.com/320/240/hotel,mumbai?random=1",
+                "address": "123 Mumbai Street, Mumbai, Maharashtra 400001, India",
+                "pincode": 400001,
+                "hotelName": "Mumbai Luxury Suites",
+                "details": {
+                    "rooms": 4,
+                    "bed": 5,
+                    "bath": 2,
+                    "area": "800 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "Gateway of India",
+                "price" : "₹ 1790",
+                "id" : "79"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,mumbai?random=2",
+                "address": "789 Marine Drive, Mumbai, Maharashtra 400020, India",
+                "pincode": 400020,
+                "hotelName": "Marine Drive View Hotel",
+                "details": {
+                    "rooms": 3,
+                    "bed": 4,
+                    "bath": 2,
+                    "area": "900 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "along the waterfront",
+                "price" : "₹ 6790",
+                "id" : "81"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,mumbai?random=3",
+                "address": "101 Colaba Causeway, Mumbai, Maharashtra 400005, India",
+                "pincode": 400005,
+                "hotelName": "Colaba Luxury Residences",
+                "details": {
+                    "rooms": 5,
+                    "bed": 6,
+                    "bath": 3,
+                    "area": "1100 sqft"
+                },
+                "target": {
+                    "forRent": false,
+                    "forSale": true
+                },
+                "landmark": "in the shopping district",
+                "price" : "₹ 3590",
+                "id" : "82"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,mumbai?random=4",
+                "address": "222 Juhu Beach, Mumbai, Maharashtra 400049, India",
+                "pincode": 400049,
+                "hotelName": "Juhu Beachside Retreat",
+                "details": {
+                    "rooms": 4,
+                    "bed": 5,
+                    "bath": 2,
+                    "area": "950 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "on the famous beach",
+                "price" : "₹ 8590",
+                "id" : "83"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,mumbai?random=5",
+                "address": "333 Bandra West, Mumbai, Maharashtra 400050, India",
+                "pincode": 400050,
+                "hotelName": "Bandra West Elegance",
+                "details": {
+                    "rooms": 3,
+                    "bed": 4,
+                    "bath": 1,
+                    "area": "750 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "near Bandstand Promenade",
+                "price" : "₹ 3500",
+                "id" : "84"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,mumbai?random=6",
+                "address": "444 Worli Sea Face, Mumbai, Maharashtra 400030, India",
+                "pincode": 400030,
+                "hotelName": "Worli Sea View Residences",
+                "details": {
+                    "rooms": 6,
+                    "bed": 7,
+                    "bath": 3,
+                    "area": "1200 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "with a view of the sea",
+                "price" : "₹ 2790",
+                "id" : "85"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,mumbai?random=7",
+                "address": "555 Powai Lake View, Mumbai, Maharashtra 400076, India",
+                "pincode": 400076,
+                "hotelName": "Powai Lakefront Haven",
+                "details": {
+                    "rooms": 4,
+                    "bed": 5,
+                    "bath": 2,
+                    "area": "950 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "overlooking Powai Lake",
+                "price" : "₹ 1350",
+                "id" : "86"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,mumbai?random=8",
+                "address": "666 Malabar Hill, Mumbai, Maharashtra 400006, India",
+                "pincode": 400006,
+                "hotelName": "Malabar Hill Serenity",
+                "details": {
+                    "rooms": 3,
+                    "bed": 4,
+                    "bath": 1,
+                    "area": "700 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "near Hanging Gardens",
+                "price" : "₹ 8700",
+                "id" : "87"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,mumbai?random=9",
+                "address": "777 Andheri East, Mumbai, Maharashtra 400069, India",
+                "pincode": 400069,
+                "hotelName": "Andheri East Comfort Inn",
+                "details": {
+                    "rooms": 5,
+                    "bed": 6,
+                    "bath": 2,
+                    "area": "900 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "near Chhatrapati Shivaji International Airport",
+                "price" : "₹ 23900",
+                "id" : "88"
+            }
+        ],
+        "paris": [
+            {
+                "image": "https://loremflickr.com/320/240/hotel,paris?random=1",
+                "address": "123 Champs-Élysées, Paris, France",
+                "pincode": "75008",
+                "hotelName": "Champs-Élysées Luxury Hotel",
+                "details": {
+                    "rooms": 5,
+                    "bed": 6,
+                    "bath": 2,
+                    "area": "1000 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "on the famous avenue",
+                "price" : "₹ 23190",
+                "id" : "89"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,paris?random=2",
+                "address": "789 Eiffel Tower View, Paris, France",
+                "pincode": "75007",
+                "hotelName": "Eiffel Tower View Suites",
+                "details": {
+                    "rooms": 3,
+                    "bed": 4,
+                    "bath": 2,
+                    "area": "900 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "with a view of the Eiffel Tower",
+                "price" : "₹ 9990",
+                "id" : "91"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,paris?random=3",
+                "address": "101 Louvre Museum, Paris, France",
+                "pincode": "75001",
+                "hotelName": "Louvre Museum Residences",
+                "details": {
+                    "rooms": 5,
+                    "bed": 6,
+                    "bath": 3,
+                    "area": "1100 sqft"
+                },
+                "target": {
+                    "forRent": false,
+                    "forSale": true
+                },
+                "landmark": "across from the Louvre",
+                "price" : "₹ 8960",
+                "id" : "92"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,paris?random=4",
+                "address": "222 Seine River, Paris, France",
+                "pincode": "75004",
+                "hotelName": "Seine Riverfront Haven",
+                "details": {
+                    "rooms": 4,
+                    "bed": 5,
+                    "bath": 2,
+                    "area": "950 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "along the Seine River",
+                "price" : "₹ 9088",
+                "id" : "93"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,paris?random=5",
+                "address": "333 Marais, Paris, France",
+                "pincode": "75003",
+                "hotelName": "Marais District Comfort",
+                "details": {
+                    "rooms": 3,
+                    "bed": 4,
+                    "bath": 1,
+                    "area": "750 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "in the historic Marais district",
+                "price" : "₹ 12090",
+                "id" : "94"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,paris?random=6",
+                "address": "444 Latin Quarter, Paris, France",
+                "pincode": "75005",
+                "hotelName": "Latin Quarter Charm",
+                "details": {
+                    "rooms": 4,
+                    "bed": 5,
+                    "bath": 2,
+                    "area": "900 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "in the Latin Quarter",
+                "price" : "₹ 10790",
+                "id" : "95"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,paris?random=7",
+                "address": "555 Bastille, Paris, France",
+                "pincode": "75011",
+                "hotelName": "Bastille District Retreat",
+                "details": {
+                    "rooms": 5,
+                    "bed": 6,
+                    "bath": 2,
+                    "area": "950 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "near the Bastille",
+                "price" : "₹ 10670",
+                "id" : "96"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,paris?random=8",
+                "address": "666 Canal Saint-Martin, Paris, France",
+                "pincode": "75010",
+                "hotelName": "Canal Saint-Martin Serenity",
+                "details": {
+                    "rooms": 3,
+                    "bed": 4,
+                    "bath": 1,
+                    "area": "700 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "along the Canal Saint-Martin",
+                "price" : "₹ 13090",
+                "id" : "97"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,paris?random=9",
+                "address": "777 Île de la Cité, Paris, France",
+                "pincode": "75004",
+                "hotelName": "Île de la Cité Views",
+                "details": {
+                    "rooms": 4,
+                    "bed": 5,
+                    "bath": 2,
+                    "area": "850 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "on Île de la Cité",
+                "price" : "₹ 14590",
+                "id" : "98"
+            }
+        ],
+        "london": [
+            {
+                "image": "https://loremflickr.com/320/240/hotel,london?random=1",
+                "address": "123 Baker Street, London, NW1 6XE, United Kingdom",
+                "pincode": "NW1 6XE",
+                "hotelName": "Baker Street Suites",
+                "details": {
+                    "rooms": 4,
+                    "bed": 5,
+                    "bath": 2,
+                    "area": "900 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "Sherlock Holmes Museum nearby",
+                "price" : "₹ 12099",
+                "id" : "99"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,london?random=2",
+                "address": "789 Tower Bridge, London, SE1 2UP, United Kingdom",
+                "pincode": "SE1 2UP",
+                "hotelName": "Tower Bridge View Hotel",
+                "details": {
+                    "rooms": 5,
+                    "bed": 6,
+                    "bath": 2,
+                    "area": "1000 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "with a view of Tower Bridge",
+                "price" : "₹ 12090",
+                "id" : "101"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,london?random=3",
+                "address": "101 Covent Garden, London, WC2E 9DD, United Kingdom",
+                "pincode": "WC2E 9DD",
+                "hotelName": "Covent Garden Boutique Inn",
+                "details": {
+                    "rooms": 4,
+                    "bed": 5,
+                    "bath": 2,
+                    "area": "850 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "in the heart of Covent Garden",
+                "price" : "₹ 80950",
+                "id" : "102"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,london?random=4",
+                "address": "222 Southbank, London, SE1 9PP, United Kingdom",
+                "pincode": "SE1 9PP",
+                "hotelName": "Southbank Serenity",
+                "details": {
+                    "rooms": 3,
+                    "bed": 4,
+                    "bath": 1,
+                    "area": "750 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "along the South Bank of the Thames",
+                "price" : "₹ 16790",
+                "id" : "103"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,london?random=5",
+                "address": "333 Camden Market, London, NW1 8AF, United Kingdom",
+                "pincode": "NW1 8AF",
+                "hotelName": "Camden Market Comfort Inn",
+                "details": {
+                    "rooms": 5,
+                    "bed": 6,
+                    "bath": 2,
+                    "area": "950 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "in vibrant Camden Market",
+                "price" : "₹ 26590",
+                "id" : "104"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,london?random=6",
+                "address": "444 Canary Wharf, London, E14 5AB, United Kingdom",
+                "pincode": "E14 5AB",
+                "hotelName": "Canary Wharf Elegance",
+                "details": {
+                    "rooms": 4,
+                    "bed": 5,
+                    "bath": 2,
+                    "area": "900 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "in Canary Wharf business district",
+                "price" : "₹ 6080",
+                "id" : "105"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,london?random=7",
+                "address": "555 Shoreditch, London, EC2A 3EN, United Kingdom",
+                "pincode": "EC2A 3EN",
+                "hotelName": "Shoreditch Hipster Haven",
+                "details": {
+                    "rooms": 6,
+                    "bed": 7,
+                    "bath": 3,
+                    "area": "1200 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": false
+                },
+                "landmark": "in trendy Shoreditch",
+                "price" : "₹ 3025",
+                "id" : "106"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,london?random=8",
+                "address": "666 Notting Hill, London, W11 3JQ, United Kingdom",
+                "pincode": "W11 3JQ",
+                "hotelName": "Notting Hill Retreat",
+                "details": {
+                    "rooms": 4,
+                    "bed": 5,
+                    "bath": 2,
+                    "area": "950 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "in charming Notting Hill",
+                "price" : "₹ 13790",
+                "id" : "107"
+            },
+            {
+                "image": "https://loremflickr.com/320/240/hotel,london?random=9",
+                "address": "777 Kensington, London, W8 5SE, United Kingdom",
+                "pincode": "W8 5SE",
+                "hotelName": "Kensington Garden Views",
+                "details": {
+                    "rooms": 3,
+                    "bed": 4,
+                    "bath": 1,
+                    "area": "750 sqft"
+                },
+                "target": {
+                    "forRent": true,
+                    "forSale": true
+                },
+                "landmark": "overlooking Kensington Gardens",
+                "price" : "₹ 89042",
+                "id" : "108"
+            }
+        ]
+    }
+}
